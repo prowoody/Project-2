@@ -47,7 +47,7 @@ Database is crowdfunding_db
 
 1. login to PgAdmin and create a database crowdfunding_db.
 
-2. Create table schemas using the query in file 
+2. Create table schemas using the query in file crowdfunding_db.sql. Refer the Quick DBD schema file  QuickDBD-Crowdfunding Schema
 
 3. Run the queries in the file crowdfunding_db.sql in the sequence with the alter table queries .
 
